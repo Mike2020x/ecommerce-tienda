@@ -12,7 +12,7 @@ export interface Product {
     id: string
     category: Category
     name: string
-    price: String
+    price: string
     isFeatured: Boolean
     size: Size
     color: Color
